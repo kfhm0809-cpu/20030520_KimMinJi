@@ -1,2 +1,6 @@
 # 20030520_KimMinJi
 20030520_김민지_배포
+
+# NIKE
+> JUST DO IT
+
