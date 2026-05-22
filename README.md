@@ -1,6 +1,3 @@
-# 20030520_KimMinJi
-20030520_김민지_배포
-
 # NIKE
 >  JUST DO IT - NIKE의 홈페이지 메인 화면입니다
 
@@ -54,20 +51,6 @@ Main은 figure를 통해 작성된 비디오, h2를 통해 작성된 슬로건, 
 <img width="993" height="748" alt="상품" src="https://github.com/user-attachments/assets/d51e8ff3-48bc-4850-95f7-373329173ebe" />
 - 상품
 상품은 4열 2행으로 구성되어 있으며, 각각의 상품에 마우스를 hover 시 scale이 1.05배 부드럽게 확대됩니다
-<br>
-``` css
-.item-container .image-wrap {
-  overflow: hidden;
-}
-
-.item-container img {
-  transition: all 0.3s;
-}
-
-.item-container img:hover {
-  scale: 1.05;
-}
-```
 <br>
 span과 s 코드를 이용해 할인율 및 정가를 표시할 수 있습니다
 <br>
