@@ -20,6 +20,7 @@
 ## 미리보기
 #### 메인 화면
 <img width="1883" height="947" alt="메인화면" src="https://github.com/user-attachments/assets/c1ad3949-848a-42b8-9645-c39b42865545" />
+<br>
 #### 서브 화면
 <img width="1764" height="847" alt="서브화면" src="https://github.com/user-attachments/assets/8a8dfa48-75fd-40f0-b5e5-e2f079845078" />
 
