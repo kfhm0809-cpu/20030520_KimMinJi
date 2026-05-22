@@ -5,5 +5,6 @@
 > JUST DO IT -NIKE의 홈페이지-
 
 ## 개요
-개발 환경 : 
-배포 주소 : [NIKE] 
+개발 환경 : `HTML` `CSS`
+<br>
+배포 주소 : [NIKE] (https://kfhm0809-cpu.github.io/20030520_KimMinJi)
